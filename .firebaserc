@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "asm-life",
+    "asmlife": "asm-life"
+  }
+}
